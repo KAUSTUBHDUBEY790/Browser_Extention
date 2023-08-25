@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined");
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined");
+
+
+
+.task-container{
+    color: var(--text-color-primary);
+    padding-top: 4rem;
+    position: relative;
+    height: 100vh;
+}
+.time{
+    font-size: 8rem;
+}
+.message{
+    font-size: 4rem;
+}
+.focus-Q{
+    font-size: 2rem;
+}
+.tinput{
+    font-size: 2rem;
+    width: 35vw;
+}
+.check{
+    width:1.5rem;
+    height: 1.5rem;
+}
+.strikethrough{
+    text-decoration: line-through;
+}
+.button{
+    background-color: transparent;
+    border: none;
+    margin-left: auto;
+    color: white;
+    padding-left: 10px;
+}
+.button:hover{
+    cursor: pointer;
+}
+.quotescontainer{
+    width: 70vw;
+    position: absolute;
+    bottom: 3rem;
+    text-align: center;
+
+}
+.todobutton{
+    font-size: 4rem;
+}
+
+.todobuttoncontainer{
+    right: 1rem;
+    bottom: 2rem;
+}
+
+.material-symbols-outlined {
+  font-size: 40px;
+  
+}
+.link-container{
+    height: 45vh;
+    background-color:darkcyan;
+    opacity: .6;
+    bottom: 0;
+    left: 5px;
+    top: 25%;
+}
+.link{
+    width: 50px;
+    padding: 7px;
+    background-color: azure;
+}
+.link:hover{
+    transform: scale(1.3);
+}

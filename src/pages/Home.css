@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+.home-container{
+    color:var(--text-color-primary);
+    padding-top: 3rem;
+}
+.gap-lg{
+    gap: 9rem;
+}
+.main-heading{
+    font-size: 3.5rem;
+    line-height: 4rem;
+    
+}
+input{
+    background-color: transparent;
+    font-size: 3rem;
+    border: none;
+    border-bottom: 3px solid var(--text-color-primary);
+    color: var(--text-color-primary);
+    width: 42vw;
+    text-align: center;
+}
+input:focus{
+    outline: none;
+}
