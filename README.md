@@ -28,7 +28,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/browser-extension.git
+  git clone git@github.com:KAUSTUBHDUBEY790/Browser_Extention.git
 ```
 
 Go to the project directory
