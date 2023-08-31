@@ -28,7 +28,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone git@github.com:KAUSTUBHDUBEY790/Browser_Extention.git
+  gh repo clone KAUSTUBHDUBEY790/Browser_Extention
 ```
 
 Go to the project directory
